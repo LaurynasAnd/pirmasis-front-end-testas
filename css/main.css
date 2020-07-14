@@ -1,0 +1,10 @@
+.container {
+display: inline-block;
+background-color: red;
+}
+    .container > .title {
+        display: inline-block;
+    }
+    .container > .text {
+        display: inline-block;
+    }
